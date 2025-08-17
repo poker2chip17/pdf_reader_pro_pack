@@ -1,0 +1,3 @@
+// วางไฟล์นี้ไว้เป็นตัวอย่างเท่านั้น
+// แนะนำให้ใช้ GitHub Secret ชื่อ FIREBASE_JSON แล้วให้ Workflow เขียนไฟล์ให้เอง
+// ไม่ควร commit google-services.json จริง ๆ ลง repo สาธารณะ
